@@ -1,0 +1,11 @@
+#painel, #flip {
+  padding: 5px;
+  text-align: center;
+  background-color: #dfb1b9;
+  border: solid 1px #ce7878;
+}
+
+#painel{
+  padding: 50px;
+  display: none;
+}
